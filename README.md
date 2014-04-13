@@ -3,7 +3,7 @@ Android-Arduino-Bluetooth-Bridge
 
 This code will build the basics of how to build an Android app that can speak directly to an Arduino in a really cost-effective way -- using the bluetooth-serial module.
  
-Now you can remotely control and monitor any arduino based project.
+Remotely control and monitor any arduino based project.
 
 ## References
 
